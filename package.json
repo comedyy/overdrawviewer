@@ -1,0 +1,10 @@
+{
+  "name": "com.xxx.overdrawviewer",
+  "description": "urp overdrawviewer",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "unityRelease": "28f1",
+  "displayName": "urp overdrawviewer",
+  "dependencies": {
+  }
+}
